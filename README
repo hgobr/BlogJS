@@ -5,3 +5,4 @@
 2. Pour accéder à la db: 'json-server --watch db.json'
 3. L'image insérée dans l'article est convertie en base64. 
 4. Vous pouvez maintenant accéder au blog et écrire des articles.
+5. Édition de la db via Postman ou directement sur l'éditeur de code.
